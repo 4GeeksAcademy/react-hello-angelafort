@@ -1,4 +1,18 @@
 
+.counter div{
+    display: block;
+    font-size: 60px;
+    line-height: 20px;
+    padding: 10px;
+    background: black;
+    margin: 5px;
+}
+
+.clock div{
+   margin: 5px;
+   font-size: 50px;
+}
+
 /* 
 
     You can write your own styles here...
@@ -10,3 +24,4 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
